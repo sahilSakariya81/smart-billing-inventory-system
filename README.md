@@ -171,7 +171,7 @@ Every day at **6 PM**:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/smart-billing-inventory-system.git
+git clone https://github.com/sahilSakariya81/smart-billing-inventory-system.git
 
 2. Open the project in **IntelliJ / Eclipse**
 
